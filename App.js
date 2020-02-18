@@ -10,7 +10,7 @@ import {
 } from 'react-native-formik'
 import { TextField } from 'react-native-material-textfield'
 
-import Switch from './Switch';
+import Switch from './src/Switch';
 
 const MyInput = compose(
   handleTextInput,
